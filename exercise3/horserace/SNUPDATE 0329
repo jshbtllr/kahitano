@@ -1,0 +1,16 @@
+Done:
+1. Exercise 2
+
+To Do:
+1. Continue Code for Exercise 3
+2. Continue Reading Threads Topic.
+
+Learnings:
+1. 
+Use of Maps especially in communication of different systems with different objects
+
+2. 
+Threads can be terminated, put to sleep and wait other threads before continuing to execute.
+
+Issue:
+1. Synchronization of threads.
