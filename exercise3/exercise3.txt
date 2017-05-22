@@ -1,0 +1,24 @@
+user input: n number of horses
+generate names for these horses
+
+at start all horses will stay at the barn
+
+barn -> gate: distance is 10 gallops
+number of gallops made by horses are done in random (1-10);
+
+per Iteration all horses must move.
+
+all horses must wait at the gate until all horses have reached the gate.
+
+When all horses have reached the gate they will for a few seconds before starting the race.
+
+
+RACE PROPER
+Distance is user input at least 100 gallops
+each horse can only move up to 10 gallops
+
+everytime a horse finishes they will say a war cry.
+Bonus:
+Power up: per iteration, the last horse can have a gallop from 1-20.
+if gallop = 1-10 no boost
+if >10 inform that horse used boost.
